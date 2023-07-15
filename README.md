@@ -13,6 +13,14 @@
 
 <br/><br/>
 
+<p align='center'>
+  <strong>尊严、尊重和公正适用于所有人。</strong>
+  <br/>
+  <strong>Dignity, respect, and justice for all.</strong>
+</p>
+
+<br/><br/>
+
 ## Reference
 - [majinqiawa/xxn](https://github.com/majinqiawa/xxn)
 - [Tardis07/xtn](https://github.com/Tardis07/xtn)
